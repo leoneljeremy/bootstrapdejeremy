@@ -1,0 +1,38 @@
+body{
+    background-color: black ;
+}
+
+#titulo{
+    color: white;
+    text-align: center;
+}
+
+#planeta{
+    width: 500px;
+    margin-left: 700px;
+}
+
+.nombre{
+    color: white;
+    text-align: center;
+}
+
+.informacionP{
+    color: white;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#menu{ 
+    font-size: x-large;
+}
+
+#bodymenu{
+    background-color: rgb(75, 73, 73);
+}
+
+#seleccion{
+    background-color: rgb(60, 58, 58);
+    color: white;
+}

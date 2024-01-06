@@ -1,0 +1,32 @@
+body{
+    background-image: url(../bootss/IMG/fondoespacio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#menu{ 
+    font-size: x-large;
+}
+
+#bodymenu{
+    background-color: rgb(75, 73, 73);
+}
+
+#seleccion{
+    background-color: rgb(60, 58, 58);
+    color: white;
+}
+
+.letrasG{
+    font-size: xx-large;
+    color: white;
+}
+
+p{
+    text-align: center;
+}
+
+.enlace{
+    font-size: xx-large;
+    margin-left: 49%;
+}

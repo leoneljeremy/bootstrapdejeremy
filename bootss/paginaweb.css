@@ -1,0 +1,26 @@
+body{
+    background-image: url(../bootss/IMG/fondoespacio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+
+
+.brrnav{
+    padding-left: 230px;
+}
+
+
+.brrnav:hover .brrnav:active{
+    color: greenyellow;
+}
+
+#logotipo{
+    width: 80px;
+    
+}
+
+#sistemasolar{
+    margin-left: 500px;
+}

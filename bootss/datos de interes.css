@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#menu{ 
+    font-size: x-large;
+}
+#bodymenu{
+    background-color: rgb(75, 73, 73);
+}
+#seleccion{
+    background-color: rgb(60, 58, 58);
+    color: white;
+}
